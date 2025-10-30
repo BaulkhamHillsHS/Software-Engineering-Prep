@@ -39,7 +39,7 @@ GitHub Codespaces is a cloud-based coding environment. It lets you code directly
 In the terminal, type:
 
 ```bash
-python 
+python 1_Printing_and_Variables.py
 ```
 
 Then follow the prompt and see your output!
@@ -50,29 +50,16 @@ Then follow the prompt and see your output!
 
 Each time you finish a lab:
 1. Click **Source Control** (the third icon on the left).
-2. Write a short message like `finished lab 01A`.
+2. Write a short message like `finished 1_Printing_and_Variables`.
 3. Click **Commit & Push**.
 
 That saves your progress to GitHub automatically.
 
 ---
 
-## 5️⃣ Check your work (optional)
+## 5️⃣ Next Steps
 
-You can run tests anytime to see if your code works:
-
-```bash
-pytest -q
-```
-
-✅ Green = success!  
-❌ Red = try again!
-
----
-
-## 6️⃣ Next Steps
-
-- Work through each folder in order (`01A`, then `01B`, etc.).
+- Work through each folder in order.
 - Ask for help if your codespace doesn’t open or you see errors.
 - Keep your repo tidy — commit often, small steps.
 
