@@ -19,6 +19,8 @@ Welcome to your **first coding course using GitHub**! Follow these steps to get 
 
 ✅ Done — you now have your GitHub account!
 
+Now come back this page for step 2.
+
 ---
 
 ## 2️⃣ Log in to GitHub Codespaces
