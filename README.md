@@ -1,6 +1,5 @@
 # Software-Engineering-Prep
-A short intro for the Software Engineering course. Designed for year 10 students. 
-
+A short intro for the Software Engineering course. Designed for year 10 students.
 
 # 🧭 Getting Started — Create Your GitHub Account & Run Your First Python Code
 
@@ -26,7 +25,6 @@ Welcome to your **first coding course using GitHub**! Follow these steps to get 
 
 GitHub Codespaces is a cloud-based coding environment. It lets you code directly in the browser — no installs needed!
 
-
 1. Click the green **“Code”** button, then **“Create codespace on main”**. OR click on the Codespace Badge.
    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/BaulkhamHillsHS/Software-Engineering-Prep?quickstart=1)
 2. Wait for it to load — it might take a couple of minutes.
@@ -37,9 +35,11 @@ GitHub Codespaces is a cloud-based coding environment. It lets you code directly
 ## 3️⃣ Run your first Python program
 
 In the terminal, type:
+
 ```bash
 python labs/01A_hello/hello.py
 ```
+
 Then follow the prompt and see your output!
 
 ---
@@ -58,9 +58,11 @@ That saves your progress to GitHub automatically.
 ## 5️⃣ Check your work (optional)
 
 You can run tests anytime to see if your code works:
+
 ```bash
 pytest -q
 ```
+
 ✅ Green = success!  
 ❌ Red = try again!
 
