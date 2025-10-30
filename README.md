@@ -39,7 +39,7 @@ GitHub Codespaces is a cloud-based coding environment. It lets you code directly
 In the terminal, type:
 
 ```bash
-python labs/01A_hello/hello.py
+python labs/lab01_hello/hello.py
 ```
 
 Then follow the prompt and see your output!

@@ -1,4 +1,4 @@
-from labs.02B_add_three.add_three import add3
+from labs.lab02B_add_three.add_three import add3
 
 def test_add3():
     assert add3(1,2,3) == 6
